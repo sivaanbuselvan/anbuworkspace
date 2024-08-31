@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\CrudOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B25DE25-63DC-4BA5-B2D4-536B16306658}|CrudOperations\\CrudOperations.csproj|c:\\users\\admin\\source\\repos\\crudoperations\\crudoperations\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B25DE25-63DC-4BA5-B2D4-536B16306658}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B25DE25-63DC-4BA5-B2D4-536B16306658}|CrudOperations\\CrudOperations.csproj|C:\\Users\\admin\\source\\repos\\CrudOperations\\crudoperations\\views\\user\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B25DE25-63DC-4BA5-B2D4-536B16306658}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\views\\user\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B25DE25-63DC-4BA5-B2D4-536B16306658}|CrudOperations\\CrudOperations.csproj|C:\\Users\\admin\\source\\repos\\CrudOperations\\crudoperations\\data_access_layer\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B25DE25-63DC-4BA5-B2D4-536B16306658}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\data_access_layer\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B25DE25-63DC-4BA5-B2D4-536B16306658}|CrudOperations\\CrudOperations.csproj|C:\\Users\\admin\\source\\repos\\CrudOperations\\crudoperations\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B25DE25-63DC-4BA5-B2D4-536B16306658}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CrudOperations\\CrudOperations\\Views\\User\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "CrudOperations\\Views\\User\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CrudOperations\\CrudOperations\\Views\\User\\EditUser.cshtml",
+              "RelativeToolTip": "CrudOperations\\Views\\User\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T10:04:12.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CrudOperations\\CrudOperations\\Data_Access_layer\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "CrudOperations\\Data_Access_layer\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CrudOperations\\CrudOperations\\Data_Access_layer\\LoginRepository.cs",
+              "RelativeToolTip": "CrudOperations\\Data_Access_layer\\LoginRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAD4v2MAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:12:02.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CrudOperations\\CrudOperations\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "CrudOperations\\Controllers\\userController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CrudOperations\\CrudOperations\\Controllers\\userController.cs",
+              "RelativeToolTip": "CrudOperations\\Controllers\\userController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwFUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:31:53.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CrudOperations\\CrudOperations\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "CrudOperations\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CrudOperations\\CrudOperations\\Models\\Model.cs",
+              "RelativeToolTip": "CrudOperations\\Models\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:56:05.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
